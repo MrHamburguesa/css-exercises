@@ -7,6 +7,39 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+
+
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.content {
+
+}
+
+.footer {
+
+}
+
 img {
   width: 600px;
 }
